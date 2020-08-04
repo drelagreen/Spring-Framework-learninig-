@@ -1,0 +1,22 @@
+
+Event{
+id=1,
+ msg='Some event for user 1',
+ date=Aug 4, 2020, 10:11:11 PM
+}
+
+Event{
+id=2,
+ msg='Some event for user 2',
+ date=Aug 4, 2020, 10:11:11 PM
+}
+Event{
+id=1,
+ msg='Some event for user 1',
+ date=Aug 4, 2020, 10:11:32 PM
+}
+Event{
+id=2,
+ msg='Some event for user 2',
+ date=Aug 4, 2020, 10:11:32 PM
+}
