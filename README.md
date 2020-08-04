@@ -3,7 +3,7 @@ Spring Framework learning rep
 
 Checked:
  CORE
-  1) dependency injection
+  1) dependency/constructor/property injection
   2) context
   3) init spring-beans from xml
   4) bean-init
